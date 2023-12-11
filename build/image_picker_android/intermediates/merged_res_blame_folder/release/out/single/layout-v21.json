@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\image_picker_android\\intermediates\\merged_res\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\b6e6afe79ad4497b662c07a01c55c652\\transformed\\core-1.8.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\image_picker_android\\intermediates\\merged_res\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\b6e6afe79ad4497b662c07a01c55c652\\transformed\\core-1.8.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\image_picker_android\\intermediates\\merged_res\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\b6e6afe79ad4497b662c07a01c55c652\\transformed\\core-1.8.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\image_picker_android\\intermediates\\merged_res\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\b6e6afe79ad4497b662c07a01c55c652\\transformed\\core-1.8.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

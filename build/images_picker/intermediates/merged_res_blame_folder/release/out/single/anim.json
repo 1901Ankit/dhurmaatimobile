@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\ucrop_close.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\5b29d337aa4f237aaf154abd7dbed6b0\\transformed\\jetified-pictureselector-v2.7.3-rc10\\res\\anim\\ucrop_close.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\btn_checkbox_to_unchecked_icon_null_animation.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\2ac1c2caff9f3116ca7cdc68c3dada3f\\transformed\\appcompat-1.3.1\\res\\anim\\btn_checkbox_to_unchecked_icon_null_animation.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\2ac1c2caff9f3116ca7cdc68c3dada3f\\transformed\\appcompat-1.3.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\2ac1c2caff9f3116ca7cdc68c3dada3f\\transformed\\appcompat-1.3.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\picture_anim_enter.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\5b29d337aa4f237aaf154abd7dbed6b0\\transformed\\jetified-pictureselector-v2.7.3-rc10\\res\\anim\\picture_anim_enter.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\btn_checkbox_to_checked_icon_null_animation.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\2ac1c2caff9f3116ca7cdc68c3dada3f\\transformed\\appcompat-1.3.1\\res\\anim\\btn_checkbox_to_checked_icon_null_animation.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\ucrop_anim_fade_in.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\5b29d337aa4f237aaf154abd7dbed6b0\\transformed\\jetified-pictureselector-v2.7.3-rc10\\res\\anim\\ucrop_anim_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\2ac1c2caff9f3116ca7cdc68c3dada3f\\transformed\\appcompat-1.3.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\picture_anim_album_show.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\5b29d337aa4f237aaf154abd7dbed6b0\\transformed\\jetified-pictureselector-v2.7.3-rc10\\res\\anim\\picture_anim_album_show.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\picture_anim_up_in.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\5b29d337aa4f237aaf154abd7dbed6b0\\transformed\\jetified-pictureselector-v2.7.3-rc10\\res\\anim\\picture_anim_up_in.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\abc_tooltip_exit.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\2ac1c2caff9f3116ca7cdc68c3dada3f\\transformed\\appcompat-1.3.1\\res\\anim\\abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\2ac1c2caff9f3116ca7cdc68c3dada3f\\transformed\\appcompat-1.3.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\2ac1c2caff9f3116ca7cdc68c3dada3f\\transformed\\appcompat-1.3.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\picture_anim_album_dismiss.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\5b29d337aa4f237aaf154abd7dbed6b0\\transformed\\jetified-pictureselector-v2.7.3-rc10\\res\\anim\\picture_anim_album_dismiss.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\btn_radio_to_off_mtrl_dot_group_animation.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\2ac1c2caff9f3116ca7cdc68c3dada3f\\transformed\\appcompat-1.3.1\\res\\anim\\btn_radio_to_off_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\picture_anim_overshoot_interpolator.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\5b29d337aa4f237aaf154abd7dbed6b0\\transformed\\jetified-pictureselector-v2.7.3-rc10\\res\\anim\\picture_anim_overshoot_interpolator.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\picture_anim_modal_in.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\5b29d337aa4f237aaf154abd7dbed6b0\\transformed\\jetified-pictureselector-v2.7.3-rc10\\res\\anim\\picture_anim_modal_in.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\picture_anim_down_out.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\5b29d337aa4f237aaf154abd7dbed6b0\\transformed\\jetified-pictureselector-v2.7.3-rc10\\res\\anim\\picture_anim_down_out.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\2ac1c2caff9f3116ca7cdc68c3dada3f\\transformed\\appcompat-1.3.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\2ac1c2caff9f3116ca7cdc68c3dada3f\\transformed\\appcompat-1.3.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\btn_radio_to_on_mtrl_ring_outer_path_animation.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\2ac1c2caff9f3116ca7cdc68c3dada3f\\transformed\\appcompat-1.3.1\\res\\anim\\btn_radio_to_on_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\btn_checkbox_to_checked_box_inner_merged_animation.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\2ac1c2caff9f3116ca7cdc68c3dada3f\\transformed\\appcompat-1.3.1\\res\\anim\\btn_checkbox_to_checked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\ucrop_loader_circle_scale.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\5b29d337aa4f237aaf154abd7dbed6b0\\transformed\\jetified-pictureselector-v2.7.3-rc10\\res\\anim\\ucrop_loader_circle_scale.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\ucrop_layout_animation_fall_down.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\5b29d337aa4f237aaf154abd7dbed6b0\\transformed\\jetified-pictureselector-v2.7.3-rc10\\res\\anim\\ucrop_layout_animation_fall_down.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\ucrop_loader_circle_path.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\5b29d337aa4f237aaf154abd7dbed6b0\\transformed\\jetified-pictureselector-v2.7.3-rc10\\res\\anim\\ucrop_loader_circle_path.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\abc_tooltip_enter.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\2ac1c2caff9f3116ca7cdc68c3dada3f\\transformed\\appcompat-1.3.1\\res\\anim\\abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\btn_checkbox_to_unchecked_check_path_merged_animation.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\2ac1c2caff9f3116ca7cdc68c3dada3f\\transformed\\appcompat-1.3.1\\res\\anim\\btn_checkbox_to_unchecked_check_path_merged_animation.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\btn_radio_to_on_mtrl_ring_outer_animation.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\2ac1c2caff9f3116ca7cdc68c3dada3f\\transformed\\appcompat-1.3.1\\res\\anim\\btn_radio_to_on_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\btn_radio_to_off_mtrl_ring_outer_animation.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\2ac1c2caff9f3116ca7cdc68c3dada3f\\transformed\\appcompat-1.3.1\\res\\anim\\btn_radio_to_off_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\picture_anim_fade_in.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\5b29d337aa4f237aaf154abd7dbed6b0\\transformed\\jetified-pictureselector-v2.7.3-rc10\\res\\anim\\picture_anim_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\2ac1c2caff9f3116ca7cdc68c3dada3f\\transformed\\appcompat-1.3.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\picture_anim_exit.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\5b29d337aa4f237aaf154abd7dbed6b0\\transformed\\jetified-pictureselector-v2.7.3-rc10\\res\\anim\\picture_anim_exit.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\btn_radio_to_on_mtrl_dot_group_animation.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\2ac1c2caff9f3116ca7cdc68c3dada3f\\transformed\\appcompat-1.3.1\\res\\anim\\btn_radio_to_on_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\2ac1c2caff9f3116ca7cdc68c3dada3f\\transformed\\appcompat-1.3.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\picture_anim_modal_out.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\5b29d337aa4f237aaf154abd7dbed6b0\\transformed\\jetified-pictureselector-v2.7.3-rc10\\res\\anim\\picture_anim_modal_out.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\picture_anim_anticipate_interpolator.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\5b29d337aa4f237aaf154abd7dbed6b0\\transformed\\jetified-pictureselector-v2.7.3-rc10\\res\\anim\\picture_anim_anticipate_interpolator.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\picture_anim_fade_out.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\5b29d337aa4f237aaf154abd7dbed6b0\\transformed\\jetified-pictureselector-v2.7.3-rc10\\res\\anim\\picture_anim_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\ucrop_item_animation_fall_down.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\5b29d337aa4f237aaf154abd7dbed6b0\\transformed\\jetified-pictureselector-v2.7.3-rc10\\res\\anim\\ucrop_item_animation_fall_down.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\btn_checkbox_to_checked_box_outer_merged_animation.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\2ac1c2caff9f3116ca7cdc68c3dada3f\\transformed\\appcompat-1.3.1\\res\\anim\\btn_checkbox_to_checked_box_outer_merged_animation.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\btn_checkbox_to_unchecked_box_inner_merged_animation.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\2ac1c2caff9f3116ca7cdc68c3dada3f\\transformed\\appcompat-1.3.1\\res\\anim\\btn_checkbox_to_unchecked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\2ac1c2caff9f3116ca7cdc68c3dada3f\\transformed\\appcompat-1.3.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\images_picker\\intermediates\\merged_res\\release\\anim\\btn_radio_to_off_mtrl_ring_outer_path_animation.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\2ac1c2caff9f3116ca7cdc68c3dada3f\\transformed\\appcompat-1.3.1\\res\\anim\\btn_radio_to_off_mtrl_ring_outer_path_animation.xml"
+    }
+]

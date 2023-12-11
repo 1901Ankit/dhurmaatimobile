@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\sms_autofill\\intermediates\\merged_res\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\cac60badd116816233374e4c03a22467\\transformed\\jetified-play-services-base-17.5.0\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\sms_autofill\\intermediates\\merged_res\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\cac60badd116816233374e4c03a22467\\transformed\\jetified-play-services-base-17.5.0\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\sms_autofill\\intermediates\\merged_res\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\cac60badd116816233374e4c03a22467\\transformed\\jetified-play-services-base-17.5.0\\res\\color\\common_google_signin_btn_text_light.xml"
+    }
+]

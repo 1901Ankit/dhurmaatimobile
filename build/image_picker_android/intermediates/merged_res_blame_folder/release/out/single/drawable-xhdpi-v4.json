@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\b6e6afe79ad4497b662c07a01c55c652\\transformed\\core-1.8.0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\b6e6afe79ad4497b662c07a01c55c652\\transformed\\core-1.8.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\b6e6afe79ad4497b662c07a01c55c652\\transformed\\core-1.8.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\b6e6afe79ad4497b662c07a01c55c652\\transformed\\core-1.8.0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\b6e6afe79ad4497b662c07a01c55c652\\transformed\\core-1.8.0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    }
+]

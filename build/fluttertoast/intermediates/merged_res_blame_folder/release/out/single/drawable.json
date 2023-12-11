@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\fluttertoast\\intermediates\\merged_res\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\3d0cc5fde8a6847fcd402d7f42878215\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\fluttertoast\\intermediates\\merged_res\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\3d0cc5fde8a6847fcd402d7f42878215\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\fluttertoast\\intermediates\\merged_res\\release\\drawable\\corner.xml",
+        "source": "C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-8.1.2\\android\\src\\main\\res\\drawable\\corner.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\fluttertoast\\intermediates\\merged_res\\release\\drawable\\toast_bg.xml",
+        "source": "C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-8.1.2\\android\\src\\main\\res\\drawable\\toast_bg.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\fluttertoast\\intermediates\\merged_res\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\3d0cc5fde8a6847fcd402d7f42878215\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Avigna\\DhurMaatiMobile2023\\build\\fluttertoast\\intermediates\\merged_res\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\91852\\.gradle\\caches\\transforms-3\\3d0cc5fde8a6847fcd402d7f42878215\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    }
+]

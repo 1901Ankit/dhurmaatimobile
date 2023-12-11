@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">502752718592-aj20qhdr9o88crr4vlqhbhss1dj85s5f.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://maati-338706-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">502752718592</string>
+    <string name="google_api_key" translatable="false">AIzaSyBtNAHhDKQIwnbpIdME-QgDTUntCAshFso</string>
+    <string name="google_app_id" translatable="false">1:502752718592:android:0ceb2b0902ffb7b585cde5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBtNAHhDKQIwnbpIdME-QgDTUntCAshFso</string>
+    <string name="google_storage_bucket" translatable="false">maati-338706.appspot.com</string>
+    <string name="project_id" translatable="false">maati-338706</string>
+</resources>
